@@ -13,3 +13,7 @@ This is the Realtime Chat Application Made from scratch Using Reactjs , Nodejs &
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+## License 
+Issued to Devanshu Vasshishtha | All Rights Reserved | 2020
+[MIT] (https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
