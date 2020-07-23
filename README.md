@@ -16,4 +16,4 @@ Setup:
 
 ## License 
 Issued to Devanshu Vasshishtha | All Rights Reserved | 2020
-[MIT] (https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
