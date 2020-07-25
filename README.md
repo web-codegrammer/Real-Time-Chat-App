@@ -18,4 +18,4 @@ Setup:
 
 [MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
 
-Issued to Devanshu Vashishtha | All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
