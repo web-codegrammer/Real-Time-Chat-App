@@ -4,7 +4,7 @@ This is the Realtime Chat Application Made from scratch Using Reactjs , Nodejs &
 
 ### [Live Site](https://web-codegrammer-realtime-chat-app.netlify.app/)
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+![Chat Application](https://i.ibb.co/h1PK3gX/chat-app.png)
 
 ## Introduction
 - I have used React on the front end, with NodeJS + Socket.io web socket library on the back end. 
